@@ -1,0 +1,7 @@
+dist
+coverage
+docs
+webpack.config.js
+index.test.js
+read.js
+json.js
